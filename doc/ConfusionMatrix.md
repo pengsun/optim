@@ -36,7 +36,7 @@ print('accuracy = ' .. 100*conf.totalValid .. '%')
 ```
 
 More complete, ready-to-run examples can be found in [Torch 7 demo repository](https://github.com/torch/demos), e.g., 
-[file 1](https://github.com/torch/demos/blob/master/person-detector/train.lua), 
+[file 1](https://github.com/torch/demos/blob/master/train-on-cifar/train-on-cifar.lua), 
 [file 2](https://github.com/torch/demos/blob/master/train-a-digit-classifier/train-on-mnist.lua)
 
 ## ConfusionMatrix State Variables ##
